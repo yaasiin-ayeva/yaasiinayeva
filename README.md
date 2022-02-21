@@ -9,9 +9,9 @@
 programming like spring, in order to improve myself. And I'm always ready to lead a project.
 - 💞️ I’m looking to collaborate on Java SE Projects and JEE Projects.
 - 📫 How to reach me ?
-  - My email : ayevayaasiin@gmail.com
-  - You can also write me directly in linkedin https://www.linkedin.com/in/yaasiin-ayeva-2a1840214
-  - Whatsapp : +22896512842
+  - My email : yaasiin.ayeva@ifnti.com
+  - You can also write me directly in linkedin https://www.linkedin.com/in/yaasiin-ayeva
+  - Whatsapp : +22892227826
 
 I'll be pleased to meet you and so great to work with you! ;-)
 
