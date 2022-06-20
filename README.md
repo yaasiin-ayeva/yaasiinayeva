@@ -1,15 +1,16 @@
 - 👋 Hi, I’m @yaasiinayeva
-- 👀 I’m interested in building strong and efficient applications in Java.
+- 👀 I’m interested in building strong and efficient applications.
   - Java SE
   - Java EE ( fullStack)
+  - Python
+  - PHP
   - PostgreSQL
   - MongoDB
-  - Python
 - 🌱 I’m currently learning many powerfull languages and frameworks for java web 
 programming like spring, in order to improve myself. And I'm always ready to lead a project.
 - 💞️ I’m looking to collaborate on Java SE Projects and JEE Projects.
 - 📫 How to reach me ?
-  - My email : yaasiin.ayeva@ifnti.com
+  - My email : ayevayaasiin@gmail.com
   - You can also write me directly in linkedin https://www.linkedin.com/in/yaasiin-ayeva
   - Whatsapp : +22892227826
 
