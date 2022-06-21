@@ -12,6 +12,7 @@ programming like spring, in order to improve myself. And I'm always ready to lea
 - 📫 How to reach me ?
   - My email : ayevayaasiin@gmail.com
   - You can also write me directly in linkedin https://www.linkedin.com/in/yaasiin-ayeva
+  - Phone : +22893921257
   - Whatsapp : +22892227826
 
 I'll be pleased to meet you and so great to work with you! ;-)
